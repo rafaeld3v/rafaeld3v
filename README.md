@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/rafaeld3v" target="blank">
   <img 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/    icons/Social/linked-in-alt.svg" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg"
     alt="rafaeld3v" 
     height="30" 
     width="40" 
