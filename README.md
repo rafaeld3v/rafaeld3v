@@ -7,7 +7,7 @@
 I'm a estudant/developer {frontend, backend and mobile}.💻
 
 ### Languages and Tools:
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =50x50)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =50x50)
 [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
 [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
 
