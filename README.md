@@ -7,7 +7,7 @@
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg"
     alt="rafaeld3v" 
     height="30" 
-    width="40" 
+    width="30" 
   />
 </a>
 
@@ -16,7 +16,7 @@
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" 
     alt="rafaeld3v" 
     height="30" 
-    width="40" 
+    width="30" 
   />
 </a>
 
@@ -42,8 +42,8 @@ I'm a estudant {frontend, backend and mobile}.💻
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"     
     alt="html5" 
-    width="40" 
-    height="40"
+    width="30" 
+    height="30"
   /> 
 </a>
 
@@ -51,17 +51,17 @@ I'm a estudant {frontend, backend and mobile}.💻
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"   
     alt="css3" 
-    width="40" 
-    height="40"
+    width="30" 
+    height="30"
   /> 
 </a>
 
 <a href="https://reactjs.org/" target="_blank"> 
   <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
     alt="react" 
-    width="40" 
-    height="40"
+    width="30" 
+    height="30"
   /> 
 </a>
 
@@ -71,8 +71,8 @@ I'm a estudant {frontend, backend and mobile}.💻
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"     
     alt="nodejs" 
-    width="40" 
-    height="40"
+    width="30" 
+    height="30"
   /> 
 </a>
 
