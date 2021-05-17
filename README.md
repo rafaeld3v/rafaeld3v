@@ -21,7 +21,7 @@
 </a>
 
 <h2>About me</h2>
-I'm a estudant {frontend, backend and mobile}.💻
+I'm a estudant frontend, backend and mobile.💻
 
 <h2>Languages and Tools:</h2>
 
