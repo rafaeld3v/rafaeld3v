@@ -1,3 +1,7 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=RafaelD3v&repo=RafaelD3v&countColorcountColor)
+
+<img align="right" src="https://github.com/RafaelD3v/rafaeld3v/blob/main/imagens/user.png?raw=true" width="300"/>
+
 <h1 align="center">Rafael Lima Tavares</h1>
 
 <p align="center">
