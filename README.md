@@ -6,11 +6,15 @@
 
 <p align="center">
    <a href="https://www.instagram.com/rafaeld3v/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaeld3v/"/>          </a>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaeld3v/"/>        </a>
  
    <a href="https://www.linkedin.com/in/rafaeld3v/">
      <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeld3v/">
    </a>
+   
+   <a href="https://app.rocketseat.com.br/me/rafael">
+    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
+   </a>  
 </p>
 <br>
 
@@ -20,14 +24,12 @@
 <br>
 
 ### :mortar_board: Formação acadêmica
-  - Análise e Desenvolvimento de Sistemas - Universidade de Fortaleza - Unifor
+  - Análise e Desenvolvimento de Sistemas 4/6 - Universidade de Fortaleza - Unifor
 
 ### 🛠 Tecnologias
 
-**Estou estudando:**
-
+**Frontend**
 <p align="left">
-
 <a href="https://www.w3.org/html/" target="_blank"> 
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"     
@@ -54,6 +56,10 @@
     height="35"
   /> 
 </a>
+</p>
+
+**Backend**
+<p align="left">
 <a href="https://nodejs.org" target="_blank"> 
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"     
@@ -62,7 +68,10 @@
     height="35"
   /> 
 </a>
+</p>
 
+**Mobile**
+<p align="left">
 <a href="https://dart.dev" target="_blank"> 
   <img 
     src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" 
@@ -80,7 +89,10 @@
     height="30"
   /> 
 </a>
+</p>
 
+**Others**
+<p align="left">
 <a href="https://git-scm.com/" target="_blank"> 
   <img 
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
@@ -89,7 +101,6 @@
     height="30"
   /> 
 </a>
-
 </p>
 
 <table align='left'>
