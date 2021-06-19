@@ -78,8 +78,8 @@
   <img 
     src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" 
     alt="dart" 
-    width="30" 
-    height="30"
+    width="35" 
+    height="35"
   /> 
 </a>
    
@@ -87,8 +87,8 @@
   <img 
     src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" 
     alt="flutter" 
-    width="30" 
-    height="30"
+    width="35" 
+    height="35"
   /> 
 </a>
 
@@ -96,8 +96,8 @@
   <img 
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
     alt="git" 
-    width="30" 
-    height="30"
+    width="35" 
+    height="35"
   /> 
 </a>
 </p>
