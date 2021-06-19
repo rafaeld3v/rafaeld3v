@@ -29,6 +29,7 @@
 ### 🛠 Tecnologias
 
 <p align="left">
+   
 **Frontend**
 <a href="https://www.w3.org/html/" target="_blank"> 
   <img 
@@ -47,7 +48,7 @@
       height="35"
     /> 
 </a>
-
+   
 <a href="https://reactjs.org/" target="_blank"> 
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
@@ -76,7 +77,7 @@
     height="30"
   /> 
 </a>
-
+   
 <a href="https://flutter.dev" target="_blank"> 
   <img 
     src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" 
