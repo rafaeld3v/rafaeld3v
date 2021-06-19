@@ -59,7 +59,7 @@
 </p>
 
 **Backend**
-<p align="left">
+<p align="center">
 <a href="https://nodejs.org" target="_blank"> 
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"     
@@ -71,7 +71,7 @@
 </p>
 
 **Mobile**
-<p align="left">
+<p align="rigth">
 <a href="https://dart.dev" target="_blank"> 
   <img 
     src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" 
