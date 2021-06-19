@@ -56,7 +56,6 @@
     height="35"
   /> 
 </a>
-</p>
 
 **Backend**
 <a href="https://nodejs.org" target="_blank"> 
@@ -67,7 +66,6 @@
     height="35"
   /> 
 </a>
-
 
 **Mobile**
 <a href="https://dart.dev" target="_blank"> 
