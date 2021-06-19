@@ -28,8 +28,8 @@
 
 ### 🛠 Tecnologias
 
-**Frontend**
 <p align="left">
+**Frontend**
 <a href="https://www.w3.org/html/" target="_blank"> 
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"     
@@ -59,7 +59,6 @@
 </p>
 
 **Backend**
-<p align="center">
 <a href="https://nodejs.org" target="_blank"> 
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"     
@@ -68,10 +67,9 @@
     height="35"
   /> 
 </a>
-</p>
+
 
 **Mobile**
-<p align="rigth">
 <a href="https://dart.dev" target="_blank"> 
   <img 
     src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" 
@@ -89,10 +87,8 @@
     height="30"
   /> 
 </a>
-</p>
 
 **Others**
-<p align="left">
 <a href="https://git-scm.com/" target="_blank"> 
   <img 
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
