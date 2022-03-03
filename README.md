@@ -76,7 +76,7 @@
    
 <a href="https://reactnative.dev/" target="_blank"> 
   <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native--original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" 
     alt="react" 
     width="35" 
     height="35"
