@@ -55,10 +55,28 @@
       height="35"
     /> 
 </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"   
+      alt="css3" 
+      width="35" 
+      height="35"
+    /> 
+</a>
    
 <a href="https://reactjs.org/" target="_blank"> 
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+    alt="react" 
+    width="35" 
+    height="35"
+  /> 
+</a>
+   
+<a href="https://reactnative.dev/" target="_blank"> 
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native--original.svg" 
     alt="react" 
     width="35" 
     height="35"
@@ -69,24 +87,6 @@
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"     
     alt="nodejs" 
-    width="35" 
-    height="35"
-  /> 
-</a>
-
-<a href="https://dart.dev" target="_blank"> 
-  <img 
-    src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" 
-    alt="dart" 
-    width="35" 
-    height="35"
-  /> 
-</a>
-   
-<a href="https://flutter.dev" target="_blank"> 
-  <img 
-    src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" 
-    alt="flutter" 
     width="35" 
     height="35"
   /> 
