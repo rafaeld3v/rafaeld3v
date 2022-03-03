@@ -29,6 +29,7 @@
 ### 🛠 Tecnologias
 
 <p align="left">
+-
 <a href="https://www.w3.org/html/" target="_blank"> 
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"     
