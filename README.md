@@ -19,14 +19,14 @@
 <br>
 
 <h4 align="center"> 
-  Sou um estudante de Frontend, Backend e Mobile.🚀
+  I'm a student of Frontend, Backend and Mobile.🚀
 </h4>
 <br>
 
-### :mortar_board: Formação acadêmica
+### :mortar_board: Academic education
   - Análise e Desenvolvimento de Sistemas 4/6 - Universidade de Fortaleza - Unifor
 
-### 🛠 Tecnologias
+### 🛠 Technologies
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> 
