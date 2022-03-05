@@ -19,7 +19,7 @@
 <br>
 
 <h4 align="center"> 
-  I'm a student of Frontend, Backend and Mobile.🚀
+  I'm passionate about programming.🚀
 </h4>
 <br>
 
