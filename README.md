@@ -24,7 +24,7 @@
 <br>
 
 ### :mortar_board: Academic education
-  - Análise e Desenvolvimento de Sistemas 4/6 - Universidade de Fortaleza - Unifor
+  - Análise e Desenvolvimento de Sistemas - Universidade de Fortaleza - Unifor
 
 ### 🛠 Technologies and Tools for developing
 
