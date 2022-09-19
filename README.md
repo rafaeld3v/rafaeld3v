@@ -1,6 +1,6 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=RafaelD3v&repo=RafaelD3v&countColorcountColor)
+<img align="center" src="./images/logo.png" width="100"/>
 
-<img align="right" src="./images/user.png" width="300"/>
+<img align="right" src="./images/ilustration.png" width="300"/>
 
 <h1 align="center">Rafael Lima Tavares</h1>
 
@@ -24,7 +24,8 @@
 <br>
 
 ### :mortar_board: Academic education
-  - Análise e Desenvolvimento de Sistemas - Universidade de Fortaleza - Unifor
+
+- Análise e Desenvolvimento de Sistemas - Universidade de Fortaleza - Unifor
 
 ### 🛠 Technologies and Tools for developing
 
@@ -104,3 +105,5 @@
     </td>
   </row>
 </table>
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=RafaelD3v&repo=RafaelD3v&countColorcountColor)
