@@ -106,4 +106,4 @@
   </row>
 </table>
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rafaeld3v&repo=rafaeld3v&countColorcountColor=green)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rafaeld3v&repo=rafaeld3v&countColor=green)
