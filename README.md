@@ -1,11 +1,14 @@
 <table align='left'>
   <row>
-    <td>
-      <img align="center" src="./images/logo.png" width="200"/>
-    </td>
-    <td>
-      ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rafaeld3v&repo=rafaeld3v&countColor=green)
-    </td>
+  <td>
+  </td>
+
+  <td>  
+    <img align="center" src="./images/logo.png" width="200"/>
+  </td>
+  <td>
+  
+  </td>
   </row>
 </table>
 
@@ -114,3 +117,5 @@
     </td>
   </row>
 </table>
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rafaeld3v&repo=rafaeld3v&countColor=green)
