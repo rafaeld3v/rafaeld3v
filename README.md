@@ -1,16 +1,4 @@
-<table align='left'>
-  <row>
-  <td>
-  </td>
-
-  <td>  
-    <img align="center" src="./images/logo.png" width="200"/>
-  </td>
-  <td>
-  
-  </td>
-  </row>
-</table>
+<img align="center" src="./images/logo.png" width="200"/>
 
 <img align="right" src="./images/ilustration.png" width="300"/>
 
