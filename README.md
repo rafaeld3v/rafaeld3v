@@ -1,16 +1,12 @@
-<p align="center">
+<p align="left">
   <img src="./images/logo.png" width="200"/>
 </p>
 
-<div align="left">
-  <h1>Rafael Lima Tavares</h1>
-</div>
+<h2 align="left"> 
+  Rafael Tavares - Front-end Developer 🚀
+</h2>
 
-<p align="right">
-  <img src="./images/illustration.png" width="300"/>
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/rafaeld3v/">
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeld3v/">
   </a>
@@ -20,9 +16,9 @@
   </a>  
 </p>
 
-<h4 align="center"> 
-  Front-end Developer 🚀 Apaixonado por tecnologia e inovação
-</h4>
+<p align="left">
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rafaeld3v&repo=rafaeld3v&countColor=green" alt="Profile Views"/>
+</p>
 
 ## 🚀 Sobre mim
 
@@ -32,10 +28,8 @@ Dedico-me a criar soluções de alta qualidade que atendam e excedam os requisit
 
 ## 🎓 Formação Acadêmica
 
-**Engenharia de Dados** - Em andamento<br>
-Unifor - Universidade de Fortaleza<br>
-**Análise e Desenvolvimento de Sistemas** - Completo<br>
-Unifor - Universidade de Fortaleza
+Engenharia de Dados - **Em andamento** - Unifor - Universidade de Fortaleza<br>
+Análise e Desenvolvimento de Sistemas - **Completo** - Unifor - Universidade de Fortaleza
 
 ## 🛠 Tecnologias e Ferramentas
 
@@ -50,21 +44,9 @@ Unifor - Universidade de Fortaleza
 
 ## 📊 Status do GitHub 
 
-<table align='left'>
-  <tr>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeld3v&layout=compact&theme=dark'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=rafaeld3v&show_icons=true&theme=dark'>
-    </td>
-  </tr>
-</table>
-
-<br clear="both"/>
-
-<p align="left">
-  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rafaeld3v&repo=rafaeld3v&countColor=green" alt="Profile Views"/>
+<p align="center">
+  <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeld3v&layout=compact&theme=dark' />
+  <img height='172' src='https://github-readme-stats.vercel.app/api?username=rafaeld3v&show_icons=true&theme=dark' />
 </p>
 
 🔗 Quer saber mais? Confira meu [LinkedIn](https://www.linkedin.com/in/rafaeld3v/)!
