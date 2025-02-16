@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./images/logo.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/rafaeld3v/rafaeld3v/refs/heads/master/images/logo.png"/>
 </p>
 
 <h2 align="left"> 
