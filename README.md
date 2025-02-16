@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="left"> 
-  Rafael Tavares - Front-end Developer 🚀
+  Rafael Tavares - Front-end Developer
 </h2>
 
 <p align="left">
@@ -44,7 +44,7 @@ Análise e Desenvolvimento de Sistemas - **Completo** - Unifor - Universidade de
 
 ## 📊 Status do GitHub 
 
-<p align="center">
+<p align="left">
   <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeld3v&layout=compact&theme=dark' />
   <img height='172' src='https://github-readme-stats.vercel.app/api?username=rafaeld3v&show_icons=true&theme=dark' />
 </p>
