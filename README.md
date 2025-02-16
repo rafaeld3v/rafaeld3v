@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/rafaeld3v/">
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeld3v/">
   </a>
-   
   <a href="https://app.rocketseat.com.br/me/rafael">
     <img alt="Blog Rocketseat" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
   </a>  
