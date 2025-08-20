@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="left"> 
-  Rafael Tavares - Front-end Developer
+  Rafael Tavares - Developer
 </h2>
 
 <p align="left">
@@ -84,3 +84,4 @@ Análise e Desenvolvimento de Sistemas - **Completo** - Unifor - Universidade de
 </p>
 
 🔗 Quer saber mais? Confira meu [LinkedIn](https://www.linkedin.com/in/rafaeld3v/)!
+
